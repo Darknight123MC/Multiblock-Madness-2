@@ -33,40 +33,40 @@
     "multiblocked.recipe_map.cast_press": "沙铸造",
 
     "block.mbm2.casting_machine": "铸造器",
-    "mbm2.casting_machine.description": "Uses Sand Casts to craft several basic parts in bulk",
-    "multiblocked.recipe_map.casting": "Part Casting",
+    "mbm2.casting_machine.description": "使用沙子铸模来大量制作一些零件",
+    "multiblocked.recipe_map.casting": "部件铸造",
     
-    "block.mbm2.heater": "Electric Heater",
-    "mbm2.heater.description": "Uses Power to heat stuff",
-    "multiblocked.recipe_map.heater": "Heating",
+    "block.mbm2.heater": "电力加热器",
+    "mbm2.heater.description": "使用电力发热",
+    "multiblocked.recipe_map.heater": "加热",
 
-    "block.mbm2.sorter_mk2": "Ore Sorting Machine Mk2",
-    "mbm2.sorter_mk2.description": "Sorts compound ores at a good rate",
-    "multiblocked.recipe_map.sorter_mk2": "Mk2 Ore Sorting",
+    "block.mbm2.sorter_mk2": "矿石分类机 MK2",
+    "mbm2.sorter_mk2.description": "以较好的速度分类复合矿石",
+    "multiblocked.recipe_map.sorter_mk2": "Mk2 矿石分类",
 
-    "block.mbm2.flotation": "Flotation Tank",
-    "mbm2.flotation.description": "Removes some impurities from partially processed ore",
-    "multiblocked.recipe_map.flotation": "Ore Flotation",
+    "block.mbm2.flotation": "浮选池",
+    "mbm2.flotation.description": "从矿石中去除一些杂质",
+    "multiblocked.recipe_map.flotation": "矿石除杂",
 
-    "block.mbm2.leaching_vat": "Leaching Tank",
-    "mbm2.leaching_vat.description": "Removes more impurities from partially processed ore",
-    "multiblocked.recipe_map.leaching": "Ore Leaching",
+    "block.mbm2.leaching_vat": "沥滤池",
+    "mbm2.leaching_vat.description": "从矿石中去除更多的杂质",
+    "multiblocked.recipe_map.leaching": "矿石沥滤",
 
 
-    "block.multiblocked.create_item_input": "Input Vault Part",
-    "block.multiblocked.create_item_output": "Output Vault Part",
+    "block.multiblocked.create_item_input": "输入保险库",
+    "block.multiblocked.create_item_output": "输出保险库",
 
-    "block.multiblocked.big_item_input": "Big Item Input Bus",
-    "block.multiblocked.big_item_output": "Big Item Output Bus",
+    "block.multiblocked.big_item_input": "大型物品输入仓",
+    "block.multiblocked.big_item_output": "大型物品输出仓",
 
-    "block.multiblocked.energy_input_mk1": "Mk1 Energy Input",
-    "block.multiblocked.energy_output_mk1": "Mk1 Energy Output",
+    "block.multiblocked.energy_input_mk1": "Mk1 能源输入仓",
+    "block.multiblocked.energy_output_mk1": "Mk1 能源输出仓",
 
-    "block.multiblocked.energy_input_mk2": "Mk2 Energy Input",
-    "block.multiblocked.energy_output_mk2": "Mk2 Energy Output",
+    "block.multiblocked.energy_input_mk2": "Mk2 能源输入仓",
+    "block.multiblocked.energy_output_mk2": "Mk2 能源输出仓",
     
-    "block.multiblocked.energy_input_mk3": "Mk3 Energy Input",
-    "block.multiblocked.energy_output_mk3": "Mk3 Energy Output",
+    "block.multiblocked.energy_input_mk3": "Mk3 能源输入仓",
+    "block.multiblocked.energy_output_mk3": "Mk3 能源输出仓",
   
     "item.create.andesite_alloy": "岩石合金",
     "create.recipe.rolling": "辊压",
@@ -84,26 +84,26 @@
 
     "item.mna.vinteum_coated_iron": "文希石秘银覆壳",
     "block.pneumaticcraft.compressed_iron_block" : "压缩钢块",
-    "item.pneumaticcraft.ingot_iron_compressed" : "压缩钢Ingot",
-    "item.pneumaticcraft.compressed_iron_boots" : "压缩钢Boots",
-    "item.pneumaticcraft.compressed_iron_chestplate" : "压缩钢Chestplate",
-    "item.pneumaticcraft.compressed_iron_helmet" : "压缩钢Helmet",
-    "item.pneumaticcraft.compressed_iron_gear" : "压缩钢Gear",
-    "item.pneumaticcraft.compressed_iron_leggings" : "压缩钢Leggings",
-    "item.pneumaticcraft.drill_bit_compressed_iron" : "压缩钢Drill Bit",
-    "block.compressedcreativity.compressed_iron_casing": "压缩钢Casing",
+    "item.pneumaticcraft.ingot_iron_compressed" : "压缩钢锭",
+    "item.pneumaticcraft.compressed_iron_boots" : "压缩钢靴子",
+    "item.pneumaticcraft.compressed_iron_chestplate" : "压缩钢胸甲",
+    "item.pneumaticcraft.compressed_iron_helmet" : "压缩钢头盔",
+    "item.pneumaticcraft.compressed_iron_gear" : "压缩钢齿轮",
+    "item.pneumaticcraft.compressed_iron_leggings" : "压缩钢护腿",
+    "item.pneumaticcraft.drill_bit_compressed_iron" : "压缩钢钻头",
+    "block.compressedcreativity.compressed_iron_casing": "压缩钢外壳",
 
-    "item.beyond_earth.compressed_steel": "Compressed Steel Plating",
-    "item.beyond_earth.compressed_desh": "Desh Plating",
-    "item.beyond_earth.compressed_calorite": "Calorite Plating",
-    "item.beyond_earth.compressed_ostrum": "Ostrum Plating",
-    "block.beyond_earth.fuel": "Rocket Fuel",
+    "item.beyond_earth.compressed_steel": "压缩钢板",
+    "item.beyond_earth.compressed_desh": "戴斯板",
+    "item.beyond_earth.compressed_calorite": "耐热金属板",
+    "item.beyond_earth.compressed_ostrum": "紫金板",
+    "block.beyond_earth.fuel": "火箭燃料",
     
-    "block.ae2.sky_stone_tank": "Hardened Tank",
+    "block.ae2.sky_stone_tank": "硬化储罐",
 
-    "block.extendedcrafting.redstone_ingot_block": "Red Alloy Block",
-    "item.extendedcrafting.redstone_ingot": "Red Alloy",
-    "item.extendedcrafting.redstone_nugget": "Red Alloy Nugget",
+    "block.extendedcrafting.redstone_ingot_block": "红色合金块",
+    "item.extendedcrafting.redstone_ingot": "红色合金锭",
+    "item.extendedcrafting.redstone_nugget": "红色合金粒",
 
 
 
